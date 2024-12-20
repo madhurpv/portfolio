@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4140dc04.css",
-    "main.js": "/portfolio/static/js/main.f5d67a82.js",
+    "main.css": "/portfolio/static/css/main.7585d9f3.css",
+    "main.js": "/portfolio/static/js/main.a76072a5.js",
     "static/js/453.20419cad.chunk.js": "/portfolio/static/js/453.20419cad.chunk.js",
     "static/media/pdf.worker.min.mjs": "/portfolio/static/media/pdf.worker.min.8bec976a1a536e55abd8.mjs",
+    "static/media/PPTFAST.pdf": "/portfolio/static/media/PPTFAST.4211644cbda638287f48.pdf",
     "static/media/Curve1output_slow.gif": "/portfolio/static/media/Curve1output_slow.a7e23af4d2e677d38f65.gif",
+    "static/media/404_Img_2.png": "/portfolio/static/media/404_Img_2.4023d9ced9c2fd2bbd8a.png",
     "static/media/Resume_Madhur_Vaidya.pdf": "/portfolio/static/media/Resume_Madhur_Vaidya.75c96519390c16b6d1c1.pdf",
     "static/media/Image1.jpg": "/portfolio/static/media/Image1.19dcf96c6756bc89003b.jpg",
     "static/media/Image4.jpg": "/portfolio/static/media/Image4.44fe06f7811d5b999b2f.jpg",
     "static/media/Image3.jpg": "/portfolio/static/media/Image3.7f6d7b876f77cfe10b70.jpg",
     "static/media/Image5.jpg": "/portfolio/static/media/Image5.41b00236aec63b448163.jpg",
     "static/media/Image2.jpg": "/portfolio/static/media/Image2.9cfecdf47c79e06eb72b.jpg",
+    "static/media/ProjectFAST.png": "/portfolio/static/media/ProjectFAST.a31eea64d3a5bb083bbf.png",
+    "static/media/PPT.png": "/portfolio/static/media/PPT.c5b408e40cbe39db1591.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
-    "main.4140dc04.css.map": "/portfolio/static/css/main.4140dc04.css.map",
-    "main.f5d67a82.js.map": "/portfolio/static/js/main.f5d67a82.js.map",
+    "main.7585d9f3.css.map": "/portfolio/static/css/main.7585d9f3.css.map",
+    "main.a76072a5.js.map": "/portfolio/static/js/main.a76072a5.js.map",
     "453.20419cad.chunk.js.map": "/portfolio/static/js/453.20419cad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4140dc04.css",
-    "static/js/main.f5d67a82.js"
+    "static/css/main.7585d9f3.css",
+    "static/js/main.a76072a5.js"
   ]
 }
