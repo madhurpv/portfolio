@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.16695565.css",
-    "main.js": "/portfolio/static/js/main.e84c84c7.js",
+    "main.css": "/portfolio/static/css/main.4140dc04.css",
+    "main.js": "/portfolio/static/js/main.f5d67a82.js",
     "static/js/453.20419cad.chunk.js": "/portfolio/static/js/453.20419cad.chunk.js",
     "static/media/pdf.worker.min.mjs": "/portfolio/static/media/pdf.worker.min.8bec976a1a536e55abd8.mjs",
+    "static/media/Curve1output_slow.gif": "/portfolio/static/media/Curve1output_slow.a7e23af4d2e677d38f65.gif",
     "static/media/Resume_Madhur_Vaidya.pdf": "/portfolio/static/media/Resume_Madhur_Vaidya.75c96519390c16b6d1c1.pdf",
     "static/media/Image1.jpg": "/portfolio/static/media/Image1.19dcf96c6756bc89003b.jpg",
     "static/media/Image4.jpg": "/portfolio/static/media/Image4.44fe06f7811d5b999b2f.jpg",
@@ -12,12 +13,12 @@
     "static/media/Image2.jpg": "/portfolio/static/media/Image2.9cfecdf47c79e06eb72b.jpg",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
-    "main.16695565.css.map": "/portfolio/static/css/main.16695565.css.map",
-    "main.e84c84c7.js.map": "/portfolio/static/js/main.e84c84c7.js.map",
+    "main.4140dc04.css.map": "/portfolio/static/css/main.4140dc04.css.map",
+    "main.f5d67a82.js.map": "/portfolio/static/js/main.f5d67a82.js.map",
     "453.20419cad.chunk.js.map": "/portfolio/static/js/453.20419cad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16695565.css",
-    "static/js/main.e84c84c7.js"
+    "static/css/main.4140dc04.css",
+    "static/js/main.f5d67a82.js"
   ]
 }
