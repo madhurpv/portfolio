@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5c06b196.css",
-    "main.js": "/portfolio/static/js/main.67c9bd33.js",
+    "main.js": "/portfolio/static/js/main.6dc1ede5.js",
     "static/js/453.6fef7265.chunk.js": "/portfolio/static/js/453.6fef7265.chunk.js",
     "static/media/PPTDigitalTwin.pdf": "/portfolio/static/media/PPTDigitalTwin.8d90f11b86fe57dd2444.pdf",
     "static/media/PPTMarathiGAN.pdf": "/portfolio/static/media/PPTMarathiGAN.1c1280f1a261fd22188d.pdf",
@@ -12,6 +12,7 @@
     "static/media/PPTGaleShapely.pdf": "/portfolio/static/media/PPTGaleShapely.0e7aea70e9e13cf8e530.pdf",
     "static/media/PPTPetiChain.pdf": "/portfolio/static/media/PPTPetiChain.f63710ec415a69b49ef2.pdf",
     "static/media/PPTAssembly.pdf": "/portfolio/static/media/PPTAssembly.3e965055896cdbe3ed39.pdf",
+    "static/media/ProjectSimpleVideoEditor.png": "/portfolio/static/media/ProjectSimpleVideoEditor.256218402c1e7d859a6e.png",
     "static/media/404_Img_2.png": "/portfolio/static/media/404_Img_2.4023d9ced9c2fd2bbd8a.png",
     "static/media/ProjectBlockchain.png": "/portfolio/static/media/ProjectBlockchain.27b4fb186df8aa0218f8.png",
     "static/media/ProjectAssembly.png": "/portfolio/static/media/ProjectAssembly.1142e199a733345c5885.png",
@@ -29,11 +30,11 @@
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
     "main.5c06b196.css.map": "/portfolio/static/css/main.5c06b196.css.map",
-    "main.67c9bd33.js.map": "/portfolio/static/js/main.67c9bd33.js.map",
+    "main.6dc1ede5.js.map": "/portfolio/static/js/main.6dc1ede5.js.map",
     "453.6fef7265.chunk.js.map": "/portfolio/static/js/453.6fef7265.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c06b196.css",
-    "static/js/main.67c9bd33.js"
+    "static/js/main.6dc1ede5.js"
   ]
 }
