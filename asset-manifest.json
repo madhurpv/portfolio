@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c6855bbf.css",
-    "main.js": "/portfolio/static/js/main.491a51a6.js",
+    "main.js": "/portfolio/static/js/main.ca24e474.js",
     "static/js/453.6fef7265.chunk.js": "/portfolio/static/js/453.6fef7265.chunk.js",
     "static/media/PPTDigitalTwin.pdf": "/portfolio/static/media/PPTDigitalTwin.8d90f11b86fe57dd2444.pdf",
     "static/media/PPTFederatedLearning.pdf": "/portfolio/static/media/PPTFederatedLearning.5afe8ac8996dda22ff1e.pdf",
@@ -31,16 +31,17 @@
     "static/media/Image5.jpg": "/portfolio/static/media/Image5.41b00236aec63b448163.jpg",
     "static/media/Image2.jpg": "/portfolio/static/media/Image2.9cfecdf47c79e06eb72b.jpg",
     "static/media/ProjectFAST.png": "/portfolio/static/media/ProjectFAST.e630f765f4807c3fd281.png",
+    "static/media/Blog4.jpg": "/portfolio/static/media/Blog4.0c6f4d638dfcd286fe77.jpg",
     "static/media/ProjectMarathiGAN.png": "/portfolio/static/media/ProjectMarathiGAN.0b5a78c8e1a46d7533de.png",
     "static/media/PPT.png": "/portfolio/static/media/PPT.c5b408e40cbe39db1591.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
     "main.c6855bbf.css.map": "/portfolio/static/css/main.c6855bbf.css.map",
-    "main.491a51a6.js.map": "/portfolio/static/js/main.491a51a6.js.map",
+    "main.ca24e474.js.map": "/portfolio/static/js/main.ca24e474.js.map",
     "453.6fef7265.chunk.js.map": "/portfolio/static/js/453.6fef7265.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6855bbf.css",
-    "static/js/main.491a51a6.js"
+    "static/js/main.ca24e474.js"
   ]
 }
