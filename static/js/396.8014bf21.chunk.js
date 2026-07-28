@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_v1=self.webpackChunkportfolio_v1||[]).push([[396],{779:(e,o,s)=>{s.r(o),s.d(o,{default:()=>a});var t=s(5043),r=s(6689),n=s(579);class p extends t.Component{render(){return(0,n.jsx)(r.A,{section:"astrophotography"})}}const a=p}}]);
+//# sourceMappingURL=396.8014bf21.chunk.js.map

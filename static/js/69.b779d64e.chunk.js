@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_v1=self.webpackChunkportfolio_v1||[]).push([[69],{726:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});var n=t(5043),o=t(6689),r=t(579);class u extends n.Component{render(){return(0,r.jsx)(o.A,{section:"nature"})}}const a=u}}]);
+//# sourceMappingURL=69.b779d64e.chunk.js.map
